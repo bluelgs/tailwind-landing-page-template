@@ -19,7 +19,8 @@ function SignUp() {
 
               {/* Page header */}
               <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-                <h1 className="h1">Welcome. We exist to make entrepreneurism easier.</h1>
+                <h1 className="h1">Welcome. We exist to make entrepreneurism easier.
+                당신은 진저한 개발자로 거듭나기를 바라시나요?</h1>
               </div>
 
               {/* Form */}
